@@ -28,7 +28,8 @@
   </tr>
 </table>
 <p1><b>LIFE SYSTEM</b> reduces life by 1 every 1 monster breaches the line point.</p1>
-<p1>If <b>LIFE</b> reaches 0, game will freeze and a game over screen will be shown up..</p1>
+<br></br>
+<p1>If <b>LIFE</b> reaches 0, game will freeze and a game over screen will be shown up.</p1>
 <br></br>
 <p1><b>SCORE SYSTEM</b> increases score by 1 every 1 second.</p1>
 <br></br>
