@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/mfzVle4.png" alt="Dragons Vs Monsters" width="500" height="300">
 
-<p1>Dragons Vs Monsters is a fun 2D-tower defenset-strategy game  that was created with Unity Engine. </p1>
+<p1>Dragons Vs Monsters is a fun 2D-tower defense-strategy game  that was created with Unity Engine. </p1>
 <br></br>
 <p1>The game is about defending your ground from endless monster hordes.</p1>
 
@@ -71,6 +71,7 @@
   </tr>
 </table>
 <p1>Here is the <b>MONSTERS</b> list : </p1>
+<img src="https://i.imgur.com/MzmUuOR.png" alt="Dragons Vs Monsters" width="300" height="300">
 <table>
   <tr>
     <th>Monster's Name</th>
