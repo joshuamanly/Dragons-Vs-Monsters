@@ -1,6 +1,6 @@
 <h1>Dragons Vs Monsters</h1> 
 
-<img src="https://i.imgur.com/mfzVle4.png" alt="Dragons Vs Monsters" width="500" height="300">
+<img src="https://i.imgur.com/ReoRk1h.png" alt="Dragons Vs Monsters" width="500" height="300">
 
 <p1>Dragons Vs Monsters is a fun 2D-tower defense-strategy game  that was created with Unity Engine. </p1>
 <br></br>
